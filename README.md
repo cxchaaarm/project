@@ -84,3 +84,11 @@ I also can export data to Excel
 ![exported1](https://github.com/user-attachments/assets/b5052f3c-74ac-4600-ba3b-c5465b46bbbc)
 Points :
 * 3p Generate Excel file from database content with at least one formatting
+ 
+
+
+
+Lastly, Exit button
+![exit1](https://github.com/user-attachments/assets/5c25fb4b-1965-425d-8c6a-8f0d9496efe5)
+Points:
+*1p The application only exits after a confirmation dialog
